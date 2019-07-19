@@ -16,13 +16,13 @@ class Index extends Component {
                 isShow: true,
                 data: [
                     {
-                        name: 'registerphone',
+                        name: 'registerPhone',
                         key: 1,
                         title: '手机号',
                         value: '',
                         disable: 'true',
                     }, {
-                        name: 'registerInput',
+                        name: 'registerVertify',
                         key: 2,
                         title: '验证码',
                         value: '',
@@ -35,13 +35,13 @@ class Index extends Component {
                 isShow: false,
                 data: [
                     {
-                        name: 'loginInput',
+                        name: 'loginPhone',
                         title: '手机号',
                         key: 1,
                         value: '',
                         disable: 'true',
                     }, {
-                        name: 'loginInput',
+                        name: 'loginPassword',
                         key: 2,
                         title: '密码',
                         value: '',
@@ -54,19 +54,19 @@ class Index extends Component {
                 isShow: false,
                 data: [
                     {
-                        name: 'resetInput',
+                        name: 'resetPhone',
                         title: '手机号',
                         key: 1,
                         value: '',
                         disable: 'true',
                     }, {
-                        name: 'resetInput',
+                        name: 'resetOldPassword',
                         title: '旧密码',
                         key: 2,
                         value: '',
                         disable: 'true',
                     }, {
-                        name: 'resetInput',
+                        name: 'resetNewPassword',
                         title: '新密码',
                         key: 3,
                         value: '',
@@ -126,9 +126,11 @@ class Index extends Component {
                     <Button className='button' onClick={this.onButtonClick.bind(this, 1)}>登录</Button>
                     <Button className='button' onClick={this.onButtonClick.bind(this, 2)}>忘记密码</Button>
                 </div>
+
                 {/* 渲染modal默认组件 */}
                 {this.renderModalArr()}
                 <Button onClick={this.onGetInputButtonClick.bind(this)}>获取输入数据</Button>
+
                 {/* 方法内容待完善，清除数据方式待修改 */}
                 {/* <Button onClick={this.onClearButtonClick.bind(this)}>删除所有输入数据</Button> */}
             </div>
