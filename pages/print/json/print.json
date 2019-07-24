@@ -1,0 +1,150 @@
+[
+    {
+        "value": "备案号",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": true,
+        "isTitle": false
+    },
+    {
+        "value": "NO. KAJPHE56",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": true,
+        "isTitle": false
+    },
+    {
+        "value": "食用农产品合格证",
+        "fontSize": 13,
+        "textAlign": "center",
+        "isNoValue": true,
+        "isTitle": false
+    },
+    {
+        "value": "产品名称重量",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "红色美人柚  12千克",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "开具合格方式",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "自检合格",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "生产单位",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "宁波市经济开发区海岛蜜蜂养殖专业合作社",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "生产地址",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "浙江省宁波市北仑区梅山街道梅山海港村南汇陈家西33-2号-2室",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "AWEDAA415465461ASD",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false,
+        "isQRCode": true
+    },
+    {
+        "value": "责任人",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "张三",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "联系电话",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "13336223442",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "开具日期",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "2019年07月23日",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "产品认证",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": true
+    },
+    {
+        "value": "已认证",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": false,
+        "isTitle": false
+    },
+    {
+        "value": "证书编号：10633AW44",
+        "fontSize": 9,
+        "textAlign": "center",
+        "isNoValue": true,
+        "isTitle": false
+    }
+]

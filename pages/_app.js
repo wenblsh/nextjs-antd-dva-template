@@ -8,6 +8,8 @@ import React from 'react'
 import './app.less'
 import { LocaleProvider } from 'antd';
 import zhCN from 'antd/lib/locale-provider/zh_CN';
+import Head from 'next/head'
+
 
 class AppComponent extends React.Component {
 
@@ -34,6 +36,9 @@ class AppComponent extends React.Component {
         const { Component, pageProps,...arg } = this.props
         return (
             <Container>
+                <Head>
+                    <script type="javascript" src="./lodop/LodopFuncs.js"></script>
+                </Head>
                 <LocaleProvider locale={zhCN}>
                     <Component {...pageProps} {...arg} routerParams={this.getRouter(arg)} />
                 </LocaleProvider>

@@ -1,0 +1,42 @@
+var data = [
+    {
+        "title": "产品名称重量",
+        "value": "红色美人柚  2千克",
+        "isSub": false
+    },
+    {
+        "title": "开具合格方式",
+        "value": "自我承认合格",
+        "isSub": false
+    },
+    {
+        "title": "生产单位",
+        "value": "杭州苏食肉品有限公司",
+        "isSub": false
+    },
+    {
+        "title": "生产地址",
+        "value": "浙江宁波市镇海区招宝山街道2323号",
+        "isSub": false
+    },
+    {
+        "title": "责任人",
+        "value": "张三",
+        "isSub": true
+    },
+    {
+        "title": "联系电话",
+        "value": "13362865555",
+        "isSub": true
+    },
+    {
+        "title": "开具日期",
+        "value": "2019年07月23日",
+        "isSub": true
+    },
+    {
+        "title": "产品认证",
+        "value": "JK46588888",
+        "isSub": true
+    }
+]
