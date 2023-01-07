@@ -34,7 +34,7 @@
     "lqip-loader": "^2.2.0",
     "lru-cache": "^5.1.1",
     "mockjs": "^1.0.1-beta3",
-    "next": "^8.1.0",
+    "next": "^13.1.1",
     "next-inferno": "^0.1.0",
     "next-progressbar": "^1.0.0",
     "next-size": "^2.0.2",
@@ -47,7 +47,7 @@
     "react-no-ssr": "^1.1.0",
     "responsive-loader": "^1.2.0",
     "stylus": "^0.54.5",
-    "svg-sprite-loader": "^4.1.6",
+    "svg-sprite-loader": "^6.0.11",
     "swiper": "^4.4.6",
     "webp-loader": "^0.4.0"
   },
